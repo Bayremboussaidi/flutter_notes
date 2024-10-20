@@ -1,0 +1,25 @@
+void main() {
+
+ dynamic name = 'byrem' ;
+
+   name = 'boss' ;
+
+  print(name) ;   // out : boss        / if( string name , it wont change)
+
+}
+
+
+
+void main {
+ return ..     // compil error void+return?
+}
+
+
+
+string method(){
+
+return .. }  // valid
+
+
+
+   
