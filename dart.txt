@@ -21,5 +21,36 @@ string method(){
 return .. }  // valid
 
 
+int getAge() =>30 ;       // == return(30) , single return
 
+
+
+
+
+list ?
+
+list names = ['bay' , ..];     // type list capted auto
+
+list<string> names = ['bay' , ..];
+
+list.add(..);
+    .remove(..);
+
+/////////////////////
+
+
+class Class {
+
+Class((string n , int x) {this...}
+
+}
+
+
+Superclass extends Class {
+
+//constructr
+ Superclass(string n , int x) : super(n , x);    // appel construct pere
+
+..
+}
    
